@@ -1,0 +1,9 @@
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 5%;
+    
+}
+.footerLink{
+ text-decoration: none;
+}

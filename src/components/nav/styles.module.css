@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navMenu {
+  display: flex;
+  align-items: center;
+  padding-right: 5px;
+
+  padding: 2% 5%;
+}
+.navBtn{
+  padding: 5px;
+}
